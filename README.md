@@ -1,6 +1,5 @@
 # Skillcraft Technology Internship – Task 3: Sudoku Solver
-
-Welcome to my internship task repository!  
+  
 This repository contains **Task 3** assigned during my internship as a **Software Development Intern** at **Skillcraft Technology**.
 
 This task focuses on enhancing my programming, problem-solving, and software development skills through a real-world coding challenge: building a **Sudoku Solver** in Python.
