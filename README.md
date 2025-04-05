@@ -30,4 +30,4 @@ It reads an unsolved puzzle from a text file, fills in all the missing numbers (
 
 ---
 
-Feel free to reach out if you have any questions or feedback about this repository. [Connect with me on LinkedIn!](www.linkedin.com/in/noora-mohammed-ejaz-02371a34a)
+Feel free to reach out if you have any questions or feedback about this repository. [Connect with me on LinkedIn!](https://www.linkedin.com/in/noora-m-02371a34a)
